@@ -1,7 +1,5 @@
 # ARMinecraft-ARkit v2.0-Unity
 
-# Demo Video
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XCa9GWoL2DI/0.jpg)](https://www.youtube.com/watch?v=XCa9GWoL2DI)
 
 # Unity-ARKit-Plugin #
